@@ -1,0 +1,9 @@
+fastapi
+scikit-learn
+python-multipart
+uvicorn
+requests
+beautifulsoup4
+pdfplumber
+transformers
+torch
